@@ -20,7 +20,7 @@ PNG images for illustrations made representing Premier League club shirts
 Python dictionary containing a full squad list for every Premier League club
 
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review-Resources/tree/master/data">Data</a>
-Sample of Pundits Review sentiment data - for use in sentiment training (football specific)
+Sample of Pundits Review sentiment data - for use in sentiment training (football specific). For a larger sample please get in touch.
 
 
 
