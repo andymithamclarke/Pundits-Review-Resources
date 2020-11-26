@@ -6,7 +6,7 @@ Useful resources created alongside the Pundits Review website - https://www.pund
 > Pundits Review scrapes and processes news articles about the Premier League in order to give players and teams a review score each week. Each Monday, the project collects articles, divides them into phrases, identifies the player or club being referred to and then predicts the sentiment of the phrase. See more on how it works <a href="https://www.punditsreview.com/howitworks">here</a>!
 
 ## About this repository
-Premier League resources for seasons 2019/20 & 2020/21.
+Premier League resources for seasons 2019/20 & 2020/21 including sample dataset for sentiment model training.
 
 ## Contents
 
@@ -18,6 +18,9 @@ PNG images for illustrations made representing Premier League club shirts
 
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review-Resources/tree/master/players_dictionaries">Players Dictionaries</a>
 Python dictionary containing a full squad list for every Premier League club
+
+#### <a href="https://github.com/andyclarkemedia/Pundits-Review-Resources/tree/master/data">Data</a>
+Sample of Pundits Review sentiment data - for use in sentiment training (football specific)
 
 
 
